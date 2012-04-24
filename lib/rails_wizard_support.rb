@@ -1,4 +1,4 @@
-module WizardSupport
+module RailsWizardSupport
   extend ActiveSupport::Concern
 
   class Step
