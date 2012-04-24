@@ -5,6 +5,7 @@ Gem::Specification.new do |s|
 	s.email = "hongli@phusion.nl"
 	s.homepage = "https://github.com/phusion/rails_wizard_support"
 	s.description = "Support library for writing wizard models in Rails."
+  s.authors = ["Hongli Lai"]
 	s.add_dependency("activesupport", "~> 3.2.0")
 	
 	s.files = Dir[
